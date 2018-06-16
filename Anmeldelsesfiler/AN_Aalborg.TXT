@@ -1,0 +1,33 @@
+5705 ;Aalborg Svømmeklub            ;1991-12-07;4-kant stævne                 ;Holstebro Svømme Clu;2008-05-02        
+      ;      ;Carsten Andersen         ;1967;H ;1  ;43;          ;01:18.85;                    ;                      
+      ;      ;Pernille Andersen        ;1971;D ;2  ;19;          ;09:34.64;                    ;                      
+      ;      ;Pernille Andersen        ;1971;D ;4  ;11;          ;00:28.99;                    ;                      
+      ;      ;Rico Boye                ;1970;H ;3  ;55;          ;02:36.42;                    ;                      
+      ;      ;Niels Buus               ;1969;H ;3  ;55;          ;02:16.17;                    ;                      
+      ;      ;Dan Christensen          ;1972;H ;1  ;43;          ;01:16.82;                    ;                      
+      ;      ;Dan Christensen          ;1972;H ;3  ;55;          ;02:15.92;                    ;                      
+      ;      ;Vivi Christensen         ;1972;D ;2  ;19;          ;11:04.65;                    ;                      
+      ;      ;Aalborg Herrer 1         ;1970;LH;5  ;27;          ;03:32.22;                    ;                      
+      ;      ;Vagn Høgholm             ;1965;H ;5  ;  ;Lagkapp 1 ;        ;                    ;                      
+      ;      ;Claus Thomsen            ;1966;H ;5  ;  ;Lagkapp 2 ;        ;                    ;                      
+      ;      ;Benny Nielsen            ;1966;H ;5  ;  ;Lagkapp 3 ;        ;                    ;                      
+      ;      ;Carsten Andersen         ;1967;H ;5  ;  ;Lagkapp 4 ;        ;                    ;                      
+      ;      ;Aalborg Herrer 2         ;1970;LH;5  ;27;          ;03:40.65;                    ;                      
+      ;      ;Morten Andersen          ;1970;H ;5  ;  ;Lagkapp 1 ;        ;                    ;                      
+      ;      ;Dan Christensen          ;1972;H ;5  ;  ;Lagkapp 2 ;        ;                    ;                      
+      ;      ;Niels Buus               ;1969;H ;5  ;  ;Lagkapp 3 ;        ;                    ;                      
+      ;      ;Rico Boye                ;1970;H ;5  ;  ;Lagkapp 4 ;        ;                    ;                      
+      ;      ;Rikke Johansen           ;1973;D ;4  ;11;          ;00:30.11;                    ;                      
+      ;      ;Tinna Lythje             ;1975;D ;4  ;11;          ;00:28.49;                    ;                      
+      ;      ;Benny Nielsen            ;1966;H ;1  ;43;          ;01:02.56;                    ;                      
+      ;      ;Benny Nielsen            ;1966;H ;3  ;55;          ;02:03.11;                    ;                      
+      ;      ;Thomas Poulsen           ;1972;H ;3  ;55;          ;02:23.76;                    ;                      
+      ;      ;Jannie Veis              ;1970;D ;2  ;19;          ;09:51.39;                    ;                      
+      ;      ;Jannie Veis              ;1970;D ;4  ;11;          ;00:30.16;                    ;                      
+      ;      ;Benny Nielsen            ;1966;H ;6  ;21;          ;16:20.38;                    ;    
+
+      ;      ;Niels Buus               ;1969;H ;6  ;21;          ;16:43.77;                    ;     
+
+      ;      ;Thomas Poulsen           ;1972;H ;6  ;21;          ;17:26.96;                    ;     
+
+      ;      ;Dan Christensen          ;1972;H ;6  ;21;          ;17:28.58;                    ;     

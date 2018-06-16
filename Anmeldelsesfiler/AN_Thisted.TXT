@@ -1,0 +1,33 @@
+5671 ;Thisted Svømmeklub            ;1991-12-07;4-kant stævne                 ;Holstebro Svømme Clu;2008-05-02        
+      ;      ;Linda Drengsgaard        ;1975;D ;2  ;19;          ;12:03.66;                    ;                      
+      ;      ;Linda Drengsgaard        ;1975;D ;4  ;11;          ;00:00.00;                    ;                      
+      ;      ;Thisted Herrer 1         ;1969;LH;5  ;27;          ;03:39.40;                    ;                      
+      ;      ;Bo W. Jensen             ;1971;H ;5  ;  ;Lagkapp 1 ;        ;                    ;                      
+      ;      ;Morten Ibsen             ;1966;H ;5  ;  ;Lagkapp 2 ;        ;                    ;                      
+      ;      ;Thomas Jørgensen         ;1972;H ;5  ;  ;Lagkapp 3 ;        ;                    ;                      
+      ;      ;Henrik Olesen            ;1971;H ;5  ;  ;Lagkapp 4 ;        ;                    ;                      
+      ;      ;Thisted Herrer 2         ;1969;LH;5  ;27;          ;03:56.89;                    ;                      
+      ;      ;Lars Yde                 ;1970;H ;5  ;  ;Lagkapp 1 ;        ;                    ;                      
+      ;      ;Kurt Schuster            ;1972;H ;5  ;  ;Lagkapp 2 ;        ;                    ;                      
+      ;      ;Odin Bach                ;1972;H ;5  ;  ;Lagkapp 3 ;        ;                    ;                      
+      ;      ;Bjarne Kragh             ;1970;H ;5  ;  ;Lagkapp 4 ;        ;                    ;                      
+      ;      ;Kirsten Hove             ;1967;D ;2  ;19;          ;09:19.35;                    ;                      
+      ;      ;Kirsten Hove             ;1967;D ;4  ;11;          ;00:28.07;                    ;                      
+      ;      ;Morten Ibsen             ;1966;H ;3  ;55;          ;02:14.90;                    ;                      
+      ;      ;Bo W. Jensen             ;1971;H ;1  ;43;          ;01:15.04;                    ;                      
+      ;      ;Randi Jensen             ;1973;D ;4  ;11;          ;00:30.96;                    ;                      
+      ;      ;Berti Johannesen         ;1970;D ;2  ;19;          ;09:30.47;                    ;                      
+      ;      ;Berti Johannesen         ;1970;D ;4  ;11;          ;00:28.22;                    ;                      
+      ;      ;Thomas Jørgensen         ;1972;H ;1  ;43;          ;01:01.94;                    ;                      
+      ;      ;Henrik Olesen            ;1971;H ;1  ;43;          ;01:09.94;                    ;                      
+      ;      ;Henrik Olesen            ;1971;H ;3  ;55;          ;02:20.82;                    ;                      
+      ;      ;Kurt Schuster            ;1972;H ;3  ;55;          ;02:49.31;                    ;                      
+      ;      ;Lise Thomsen             ;1975;D ;4  ;11;          ;00:35.68;                    ;                      
+      ;      ;Lars Yde                 ;1970;H ;1  ;43;          ;01:13.52;                    ;                      
+      ;      ;Odin Bach                ;1972;H ;6  ;21;          ;00:00.00;                    ;      
+
+      ;      ;Morten Bojer             ;1973;H ;6  ;21;          ;00:00.00;                    ;     
+ 
+      ;      ;Lars Yde                 ;1970;H ;6  ;21;          ;18:00.03;                    ;     
+
+      ;      ;Bo W. Jensen             ;1971;H ;6  ;21;          ;17:31.36;                    ;       

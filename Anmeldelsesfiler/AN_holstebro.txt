@@ -1,0 +1,37 @@
+5668 ;Holstebro Svømme Club         ;1991-12-07;4-kant stævne                 ;Holstebro Svømme Clu;2008-05-02        
+      ;      ;Karina Amtkjær           ;1972;D ;2  ;19;          ;11:05.67;                    ;                      
+      ;      ;Karina Amtkjær           ;1972;D ;4  ;11;          ;00:30.62;                    ;                      
+      ;      ;Thomas Broe              ;1972;H ;3  ;55;          ;02:25.17;                    ;                      
+      ;      ;Holstebro Herrer 1       ;1969;LH;5  ;27;          ;03:29.87;                    ;                      
+      ;      ;Holstebro Herrer 2       ;1969;LH;5  ;27;          ;03:40.75;                    ;                      
+      ;      ;Jogvan Hovmann           ;1972;H ;1  ;43;          ;01:18.83;                    ;                      
+      ;      ;Lars Hvilsom             ;1972;H ;1  ;43;          ;00:00.00;                    ;                      
+      ;      ;Nanna Iversen            ;1973;D ;4  ;11;          ;00:29.99;                    ;                      
+      ;      ;Susanne Klaris           ;1969;D ;4  ;11;          ;00:29.16;                    ;                      
+      ;      ;Merete Kristiansen       ;1969;D ;2  ;19;          ;09:52.53;                    ;                      
+      ;      ;Merete Kristiansen       ;1969;D ;4  ;11;          ;00:30.12;                    ;                      
+      ;      ;Ann Lange                ;1972;D ;2  ;19;          ;10:13.22;                    ;                      
+      ;      ;Jan Larsen               ;1967;H ;1  ;43;          ;00:59.82;                    ;                      
+      ;      ;Jan Larsen               ;1967;H ;3  ;55;          ;02:04.36;                    ;                      
+      ;      ;Kurt Laursen             ;1967;H ;3  ;55;          ;02:06.40;                    ;                      
+      ;      ;Jette Madsen             ;1970;D ;4  ;11;          ;00:29.72;                    ;                      
+      ;      ;Peter Mejls              ;1971;H ;1  ;43;          ;01:14.25;                    ;                      
+      ;      ;Lenette Nielsen          ;1969;D ;4  ;11;          ;00:28.55;                    ;                      
+      ;      ;Charlotte Nygaard        ;1972;D ;4  ;11;          ;00:31.72;                    ;                      
+      ;      ;Torsten Pedersen         ;1965;H ;3  ;55;          ;02:13.52;                    ;                      
+      ;      ;Henriette Sørensen       ;1972;D ;4  ;11;          ;00:28.72;                    ;                      
+      ;      ;Lars Sørensen            ;1968;H ;1  ;43;          ;00:57.93;                    ;                      
+      ;      ;Pia Sørensen             ;1968;D ;4  ;11;          ;00:26.97;                    ;     
+
+      ;      ;Christian Toft           ;1968;H ;6  ;21;          ;17:27.11;                    ;    
+
+      ;      ;Jan Larsen               ;1967;H ;6  ;21;          ;15:41.29;                    ;    
+
+      ;      ;Kurt Laursen             ;1967;H ;6  ;21;          ;16:00.10;                    ;    
+
+      ;      ;Lars Sørensen            ;1968;H ;6  ;21;          ;16:25.21;                    ;    
+
+      ;      ;Anders Danielsen         ;1968;H ;6  ;21;          ;17:53.52;                    ;    
+
+      ;      ;Kasten Kammer            ;1966;H ;6  ;21;          ;18:42.21;                    ;    
+ 
