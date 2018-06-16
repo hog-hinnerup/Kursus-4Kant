@@ -1,0 +1,9 @@
+             Anmeldelsesfil: C:\Users\Kåre\Documents\4Kant\Anmeldelsesfiler\DO_SGI.txt
+
+                   Stævne navn Kursus 4 Kant Stævne                    Udskriftsdato      16 juni 2018
+                   Stævne by   Holstebro                               Udskriftstidspunkt 12:03
+                   Arrangør    Holstebro Svømmeklub
+
+Linie   Navn                         Født    Licens       Løb     Tid        Beskrivelse
+
+Indlæste 31 korrekte anmeldelser og skabte 21 svømmere. Fandt 0 fejl og 0 advarsler i filen.
